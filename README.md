@@ -25,45 +25,39 @@ And that's just the beginning! Stay tuned for upcoming features, including audio
 
 Say goodbye to app hopping, tab switching, and endless scrolling. With **[brAInstormer](https://brainstormer.cloud)**, unleash your creativity and conquer any project—all on one screen.
 
-Road Map:
-• Text-to-music
-• Image-to-music
-• Text-to-3d
-• Image-to-3d
-• Video to video
-• Whiteboard
-• Built in terminal of sorts (maybe?)
-• Additional text-to-image models, such as photorealistic, anime, 3d render etc
-• Camera controls, such as zoom and spin, plus style presets, such as anime and claymation, for text-to-image generation 
-• Sora text-to-video (hopefully)
-• Edit bot instructions / remove bot
-• Image editing suite
-• Video editing suite
-• Sketch-to-image button
-• Advanced, tablet-compatible sketchpad
-• Advanced text-to-image parameters, such as user choice of image dimensions, style presets, and more
-• Advanced notepad with font selection, and ability to export as multiple file types, such as PDF and .docx.
-• Image compatibility within notepad
-• Stretchable columns
-• Full screen chat
-• Full screen image editing
-• Full screen video editing
-• Chat will remain on screen regardless what page you're on (create/history/profile)
-• GPT assistant presets
-• Interactive tutorials and onscreen helpers
-• Drag and drop images across various components
-• Formatting text and code in chat
-• Formatting text and code in notepad
-• Export jpg/png from sketchpad
-• Copy chat response button
-• Integration with Slack, Canva, Google Drive, Dropbox, Shopify, Printful and more
-• Ability to schedule posts directly to social media
-• Undo/redo in sketchpad
-• Mode presets (game making, marketing, comic book, children's book, graphic novel, music video, etc)
-• Selected text smart keys. For instance, highlight a few paragraphs in notepad and have GPT summarize in a click
-• Group GPTs and organize by kind
-• Additional Chat models (such as Llama and Gemini)
-
-User requests:
-• Node mode
-• Batch processing 
+**## Road Map:**
+- Text-to-music
+- Image-to-music
+- Text-to-3d
+- Image-to-3d
+- Video-to-video
+- Whiteboard
+- Built in terminal of sorts (maybe?)
+- Additional text-to-image models, such as photorealistic, anime, 3d render etc
+- Camera controls, such as zoom and spin, plus style presets, such as anime and claymation, for text-to-image generation 
+- Sora text-to-video (hopefully)
+- Edit bot instructions / remove bot
+- Sketch-to-image button
+- Advanced, tablet-compatible sketchpad
+- Advanced text-to-image parameters, such as user choice of image dimensions, style presets, and more
+- Advanced notepad with font selection, and ability to export as multiple file types, such as PDF and .docx.
+- Image compatibility within notepad
+- Stretchable columns
+- Full screen chat
+- Full screen image editing suite
+- Full screen video editing suite
+- Chat will remain on screen regardless what page you're on (create/history/profile)
+- GPT assistant presets
+- Interactive tutorials and onscreen helpers
+- Drag and drop images across various components
+- Formatting text and code in chat
+- Formatting text and code in notepad
+- Export jpg/png from sketchpad
+- Copy chat response button
+- Integration with Slack, Canva, Google Drive, Dropbox, Shopify, Printful and more
+- Ability to schedule posts directly to social media
+- Undo/redo in sketchpad
+- Mode presets (game making, marketing, comic book, children's book, graphic novel, music video, etc)
+- Selected text smart keys. For instance, highlight a few paragraphs in notepad and have GPT summarize in a click
+- Group GPTs and organize by kind
+- Additional Chat models (such as Llama and Gemini)
