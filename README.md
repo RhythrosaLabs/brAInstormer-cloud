@@ -24,5 +24,3 @@ No matter the task—whether you're crafting a mesmerizing music video, scriptin
 And that's just the beginning! Stay tuned for upcoming features, including audio generation, 3D file creation, and much more—because at **[brAInstormer](https://brainstormer.cloud)**, innovation never sleeps.
 
 Say goodbye to app hopping, tab switching, and endless scrolling. With **[brAInstormer](https://brainstormer.cloud)**, unleash your creativity and conquer any project—all on one screen.
-
-Ready to revolutionize your creative process? Contact us via the form on our homepage to sign up and embark on your journey with brAInstormer today!
