@@ -1,8 +1,5 @@
 
-Welcome to brAInstormer, the ultimate AI-powered creative suite designed to fuel your imagination and empower your projects like never before.
-
-**[brAInstormer](https://brainstormer.cloud)**
-
+Welcome to **[brAInstormer](https://brainstormer.cloud)**, the ultimate AI-powered creative suite designed to fuel your imagination and empower your projects like never before.
 
 No matter the task—whether you're crafting a mesmerizing music video, scripting a thrilling video game, designing the next graphic novel sensation, or launching a cutting-edge marketing campaign—brAInstormer has you covered. And the best part? You can do it all without ever leaving your screen.
 
