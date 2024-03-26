@@ -19,6 +19,4 @@ Welcome to **[brAInstormer](https://brainstormer.cloud)**, the ultimate AI-power
 
 - 🖌️ **Edit Images with Ease**: Fine-tune your visuals with a comprehensive suite of image editing tools, including filters, effects, and utility functions, all powered by advanced AI algorithms for professional-grade results.
 
-And that's just the beginning! Stay tuned for upcoming features, including audio generation, 3D file creation, and much more—because at **[brAInstormer](https://brainstormer.cloud)**, innovation never sleeps.
-
-Say goodbye to app hopping, tab switching, and endless scrolling. With **[brAInstormer](https://brainstormer.cloud)**, unleash your creativity and conquer any project—all on one screen.
+Plus, stay tuned for upcoming features, including audio generation, 3D file creation, and much more
