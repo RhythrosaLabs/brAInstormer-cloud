@@ -49,17 +49,3 @@ Welcome to **[brAInstormer](https://brainstormer.cloud)**, the ultimate AI-power
 And that's just the beginning! Stay tuned for upcoming features, including audio generation, 3D file creation, and much more—because at **[brAInstormer](https://brainstormer.cloud)**, innovation never sleeps.
 
 Say goodbye to app hopping, tab switching, and endless scrolling. With **[brAInstormer](https://brainstormer.cloud)**, unleash your creativity and conquer any project—all on one screen.
-
-### Dive into our Video Playlists:
-
-Explore our curated playlists featuring tutorials, project showcases, user experiences and more! Click below to watch and be inspired:
-
-#### Playlist 1: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=mp-2IAOP8_jwR-hA&list=PLKLni1YAobBooUKaoPOhJji3nnVb74-WX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-#### Playlist 2:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=vUa272g4A670VeQB&list=PLKLni1YAobBopbp5Z6qYlJfcF0NaRyDBn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Each playlist has been meticulously put together to provide you with insights and ideas on harnessing the full power of **[brAInstormer](https://brainstormer.cloud)**.
-
-For the most immersive experience, we recommend watching directly on YouTube, where you can engage with our community, leave comments, and subscribe for the latest updates. Enjoy exploring and expanding your creative boundaries!
