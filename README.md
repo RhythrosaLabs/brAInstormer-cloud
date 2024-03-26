@@ -19,4 +19,12 @@ Welcome to **[brAInstormer](https://brainstormer.cloud)**, the ultimate AI-power
 
 - 🖌️ **Edit Images with Ease**: Fine-tune your visuals with a comprehensive suite of image editing tools, including filters, effects, and utility functions, all powered by advanced AI algorithms for professional-grade results.
 
-Plus, stay tuned for upcoming features, including audio generation, 3D file creation, and much more
+Plus, stay tuned for upcoming features, including audio generation, 3D file creation, and much more.
+
+
+## Support
+If you found brAInstormer helpful and would like to support its development, consider buying me a coffee:
+
+[![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
+
+
