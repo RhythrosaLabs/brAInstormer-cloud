@@ -27,4 +27,6 @@ If you found brAInstormer helpful and would like to support its development, con
 
 [![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
 
+🌐 [Portfolio: rhythrosalabs.github.io](https://rhythrosalabs.github.io) (more apps, music and sound design)
+
 
